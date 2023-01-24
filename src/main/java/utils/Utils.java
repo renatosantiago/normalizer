@@ -1,3 +1,5 @@
+package utils;
+
 public class Utils {
     public static int getLevenshteinDistance(CharSequence s, CharSequence t) {
         if (s != null && t != null) {
