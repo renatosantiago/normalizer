@@ -4,7 +4,7 @@ import java.util.List;
 
 public class NormalizerApp {
     public static String normalize(String entryKey) {
-        String[] jobTitles = {"Software engineer", "Accountant"};
+        String[] jobTitles = {"Architect", "Quantity surveyor", "Software engineer", "Accountant"};
         List<NormalizedString> normalizedStringList = new ArrayList<>();
         List<String> jobs = Arrays.asList(jobTitles);
 
