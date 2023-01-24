@@ -9,6 +9,7 @@ Internally we have a list of positions with the following titles:
 It will return one of the normalized word from the list when a input string is provided.
 
 exemple:
+
 <img width="931" alt="Captura de Tela 2023-01-24 às 00 12 36" src="https://user-images.githubusercontent.com/3075542/214205127-ff713ee0-24d0-4e2e-b1fc-9c4ca97147c6.png">
 
 
